@@ -1,5 +1,5 @@
 h1 {
   color: #ffff00;
-  border-top: 4mm groove #32a1ce; 
+  border-top: 4mm dashed #32a1ce; 
   border-bottom: thick double #32a1ce;
 }
