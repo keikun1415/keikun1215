@@ -8,9 +8,11 @@ body{
 }
 
 #header{
- background-color:#9cf;
+ background-color:#d1d1d1;
+ padding:1px; 
 }
 
 #title{
- margin:0;            /* ←追加 */
+ margin:0;
+ color: #ffff00;
 }
