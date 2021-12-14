@@ -52,14 +52,13 @@ a:hover::after{
 }
 #nav {
   list-style: none;
-  overflow: hidden;
+  display: flex;
 }
  
 #nav li {
   width: 140px;
   text-align: center;
   background-color: #333;
-  float: left;
   height: 50px;
   line-height: 50px;
   margin-right: 2px;
