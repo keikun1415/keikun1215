@@ -3,37 +3,13 @@ h1 {
   border-top: 1mm dashed #32a1ce; 
   border-bottom: thick double #32a1ce;
 }
-nav ul{
-display: table;
-margin: 0 auto;
-padding: 0 ;
-width: 80%;
-text-align: center;
-}
-nav li{
-display: table-cell;
-min-width: 50px;
-}
-nav a{
-display: block;
+.header-text {
 width: 100%;
-text-decoration: none;
+font-size: 85%;
 color: #555;
-padding-bottom: 5px;
+background-color: #CCC;
 }
-nav li.current{
-border-bottom: 3px solid #92D050;
-}
-nav li:hover{
-color: #E7DA66;
-border-bottom: 3px solid #F0E475;
-}
-HTML
-<nav>
-<ul>
-<li class=”current”><a href=”#”>ホーム</a></li>
-<li><a href=”#”>アドオン作品</a></li>
-<li><a href=”#”>Discord.js</a></li>
-</ul>
-</nav>
 
+.header-text-inner {
+width:960px;
+}
