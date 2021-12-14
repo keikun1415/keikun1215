@@ -3,13 +3,14 @@ h1 {
   border-top: 1mm dashed #32a1ce; 
   border-bottom: thick double #32a1ce;
 }
-.header-text {
-width: 100%;
-font-size: 85%;
-color: #555;
-background-color: #CCC;
+body{
+ margin:0;            /* ←追加 */
 }
 
-.header-text-inner {
-width:960px;
+#header{
+ background-color:#9cf;
+}
+
+#title{
+ margin:0;            /* ←追加 */
 }
