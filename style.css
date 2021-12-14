@@ -16,4 +16,13 @@ body{
  margin:0;
  color: #ffff00;
  font-family: "ＭＳ Ｐゴシック" ;
+ border-bottom: double 5px #FFC778;
+}
+#stetch {
+  background: #dfefff;
+  box-shadow: 0px 0px 0px 5px #dfefff;
+  border: dashed 1px #96c2fe;
+  padding: 0.2em 0.5em;
+  color: #454545;
+}
 }
