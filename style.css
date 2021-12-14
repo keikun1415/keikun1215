@@ -25,4 +25,8 @@ body{
   padding: 0.2em 0.5em;
   color: #454545;
 }
+#name {
+  color: #ffff00;
+  font-weight: bold
+}
 }
