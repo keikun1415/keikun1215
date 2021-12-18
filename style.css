@@ -70,4 +70,21 @@ a:hover::after{
   font-weight: bold;
   padding: 0px;
 }
+#linkbox{
+
+color:black;
+
+}
+
+.box_css{
+
+width:100px;
+
+margin: 5em;
+
+border: solid 3px #ccc;
+
+background-color: #ffffff;
+
+}
 }
