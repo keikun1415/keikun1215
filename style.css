@@ -71,5 +71,6 @@ a:hover::after{
   padding: 0px;
 }
 #addon {border-left: ridge 10px #0000ff;}
+p.sample1 {border-left: double 10px #0000ff;}
 
 }
