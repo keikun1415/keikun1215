@@ -3,8 +3,8 @@
 Country: JP,  
 Prefecture: Osaka,  
 Age: 12  
-I love JavaScript.
-![keikun1215's github stats](https://github-readme-stats.vercel.app/api?username=keikun1215)
+I love JavaScript.  
+![My github stats](https://github-readme-stats.vercel.app/api?username=keikun1215)  
 ## Language
 - [x] JavaScript
 - [x] Python
