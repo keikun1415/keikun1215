@@ -1,4 +1,9 @@
 # keikun1215
+Country: JP,  
+Prefecture: Osaka,  
+Age: 12  
+I love JavaScript.
+## Language
 - [x] JavaScript
 - [x] Python
 - [x] HTML, CSS
