@@ -1,4 +1,4 @@
-![](https://api.keikun1215.cf/private/ghfollowed) ![](https://api.keikun1215.cf/private/ghfollowing)
+<img src="https://api.keikun1215.cf/private/ghfollowed" /> <img src="https://api.keikun1215.cf/private/ghfollowing" />
 # keikun1215
 Country: JP,  
 Prefecture: Osaka,  
