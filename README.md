@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=keikun1215) ![](https://api.keikun1215.cf/private/ghfollow)
+![](https://api.keikun1215.cf/private/ghfollow)
 # keikun1215
 Country: JP,  
 Prefecture: Osaka,  
